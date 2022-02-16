@@ -1,0 +1,50 @@
+.card-page{
+    display:flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 50%;
+    width: 50%;
+    /* min-height: fit-content; */
+    /* background-image: url("../images/main-banner.jpg"); */
+}
+.card-body {
+        width: 18rem;
+}
+
+.card-page-bottom{
+    display:flex;
+    align-items: left;
+    text-align: left;
+    justify-content: left;
+    height: 50%;
+    width: 50%;
+    /* min-height: fit-content; */
+    /* background-image: url("../images/left-image.jpg"); */
+}
+
+.card-body-bottom {
+    width: 14rem;
+}
+
+.navbar fixed-top {
+    background-color: purple;    
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+#sidebar {
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 999;
+    background: black;
+    color: white;
+    transition: all 0.3s;
+}
+
