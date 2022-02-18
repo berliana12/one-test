@@ -1,0 +1,39 @@
+{
+    "bars":[
+        {
+            "title": "HOMEPAGE",
+            "path": "/",
+            "cName": "nav-text"
+         },
+         {
+            "title": "SIMPLE PAGE",
+            "path": "/simple-page",
+            "cName": "nav-text"
+         },
+         {
+            "title": "SHORTCODES",
+            "path": "/shortcodes",
+            "cName": "nav-text"
+         },
+         {
+            "title": "DROPDOWN ONE",
+            "path": "/dropdown-one",
+            "cName": "nav-text"
+         },
+         {
+            "title": "DROPDOWN TWO",
+            "path": "/dropdown-two",
+            "cName": "nav-text"
+         },
+         {
+            "title": "EXTERNAL LINK",
+            "path": "/external-link",
+            "cName": "nav-text"
+         },
+         {
+          "title": "Featured Posts",
+          "path": "/external-link",
+          "cName": "nav-text"
+       }
+    ]
+}
